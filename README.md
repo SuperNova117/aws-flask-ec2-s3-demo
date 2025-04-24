@@ -26,3 +26,6 @@ gunicorn --bind 0.0.0.0:8000 wsgi:app
 
 ## Author
 Armend Daci | AWS Certified Solutions Architect
+
+![Flask App Screenshot](https://raw.githubusercontent.com/supernova117/aws-flask-ec2-s3-demo/main/flask-demo-screenshot.png)
+
